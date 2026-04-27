@@ -24,12 +24,13 @@ public class Board
         bool Change = true;
         while(count1 < 25)
         {
-            if(count2 == 0)
+            if(count2 < 0)
             {
                 board += board_End;
                 board += board_border;
                 count2 = 8;
                 Change = !Change;
+                
 
             }
             if(Change == true)
