@@ -22,7 +22,7 @@ public class Board
         int count1 = 0;
         int count2 = 0;
         bool Change = true;
-        while(count1 < 25)
+        while(count1 < 30)
         {
             if(count2 < 0)
             {

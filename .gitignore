@@ -483,3 +483,14 @@ $RECYCLE.BIN/
 Program/bin/Debug/net10.0/Game.dll
 
 Program/bin/Debug/net10.0/Game.pdb
+
+Program/obj/Debug/net10.0/refint/Program.dll
+Program/obj/Debug/net10.0/ref/Program.dll
+Program/obj/Debug/net10.0/Program.sourcelink.json
+Program/obj/Debug/net10.0/Program.pdb
+Program/obj/Debug/net10.0/Program.dll
+Program/obj/Debug/net10.0/Program.csproj.AssemblyReference.cache
+Program/obj/Debug/net10.0/Program.AssemblyInfoInputs.cache
+Program/obj/Debug/net10.0/Program.AssemblyInfo.cs
+Program/bin/Debug/net10.0/Program.pdb
+Program/bin/Debug/net10.0/Program.dll
