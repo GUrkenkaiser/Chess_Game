@@ -481,9 +481,7 @@ $RECYCLE.BIN/
 # Vim temporary swap files
 *.swp
 Program/bin/Debug/net10.0/Game.dll
-
 Program/bin/Debug/net10.0/Game.pdb
-
 Program/obj/Debug/net10.0/refint/Program.dll
 Program/obj/Debug/net10.0/ref/Program.dll
 Program/obj/Debug/net10.0/Program.sourcelink.json
