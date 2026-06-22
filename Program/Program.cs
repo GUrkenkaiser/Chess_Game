@@ -9,11 +9,15 @@ class Programm
        Board brett = new Board();
 
         // Eine Figur erstellen
-        Figure tower_white = new Figure('t', 0, 0);
+        Figure turmWhite1 = new Figure('t', 0, 0);
+        Figure turmWhite2 = new Figure('t', 7, 0);
+        Figure koenigWhite = new Figure('k',4,0);
 
-        brett.Felder[0, 0] = tower_white;
+        brett.Felder[0, 0] = turmWhite1;
+        brett.Felder[7, 0] = turmWhite2;
+        brett.Felder[4, 0] = koenigWhite;
         int count = 0;
-        while (count < 50)
+        while (count < 5)
         {
 
             Console.WriteLine(brett);
